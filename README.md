@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.doc.ic.ac.uk/jw923/nlp_cw1.git
+git remote add origin https://gitlab.doc.ic.ac.uk/g237007907/nlp_cw1.git
 git branch -M master
 git push -uf origin master
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.doc.ic.ac.uk/jw923/nlp_cw1/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.doc.ic.ac.uk/g237007907/nlp_cw1/-/settings/integrations)
 
 ## Collaborate with your team
 
