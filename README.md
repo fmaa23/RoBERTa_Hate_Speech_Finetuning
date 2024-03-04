@@ -27,7 +27,7 @@ The `code` directory includes the following Jupyter Notebook files:
 
 
 
-- `ensemble_model.ipynb`: Combines multiple machine learning models to create an ensemble that predicts the final labels.
+- `ensemble_model_cw.ipynb`: Combines multiple machine learning models using soft voting to create an ensemble that predicts the final labels.
 
 - `Part_1a_2c.ipynb`: Answers questions related to parts 1a and 2c of the project using data analysis and modeling.
 
@@ -61,9 +61,9 @@ The `code` directory includes the following Jupyter Notebook files:
 
 
 
-- `raw_data/`
+- `final_data_with_cw/`
 
-  - Contains all the base data that was initially downloaded from the provided GitHub URL.
+  - Contains all the base data that was downloaded from the provided GitHub URL and intermediate data files generated from model training
 
 
 
